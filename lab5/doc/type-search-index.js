@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Ki302.Protsak.lab5","l":"EquationsApp"},{"p":"Ki302.Protsak.lab5","l":"ExpressionCalculator"}];updateSearchResults();
